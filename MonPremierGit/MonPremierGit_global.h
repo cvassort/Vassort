@@ -10,5 +10,3 @@
 #endif
 
 #endif // MONPREMIERGIT_GLOBAL_H
-
-66586461
