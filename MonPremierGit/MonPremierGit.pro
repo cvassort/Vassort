@@ -12,6 +12,7 @@ TEMPLATE = lib
 DEFINES += MONPREMIERGIT_LIBRARY
 
 SOURCES += monpremiergit.cpp
+556464
 
 HEADERS += monpremiergit.h\
         MonPremierGit_global.h
